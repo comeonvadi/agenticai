@@ -1,0 +1,22 @@
+.env
+.venv/
+.vercel/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+*.mp3
+*.wav
+.DS_Store
+
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+.env.*
